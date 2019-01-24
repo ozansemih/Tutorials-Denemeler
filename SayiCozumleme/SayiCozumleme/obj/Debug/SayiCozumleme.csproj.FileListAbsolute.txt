@@ -1,0 +1,7 @@
+C:\Users\Z0040DAK\source\repos\SayiCozumleme\SayiCozumleme\bin\Debug\SayiCozumleme.exe.config
+C:\Users\Z0040DAK\source\repos\SayiCozumleme\SayiCozumleme\bin\Debug\SayiCozumleme.exe
+C:\Users\Z0040DAK\source\repos\SayiCozumleme\SayiCozumleme\bin\Debug\SayiCozumleme.pdb
+C:\Users\Z0040DAK\source\repos\SayiCozumleme\SayiCozumleme\obj\Debug\SayiCozumleme.csprojAssemblyReference.cache
+C:\Users\Z0040DAK\source\repos\SayiCozumleme\SayiCozumleme\obj\Debug\SayiCozumleme.csproj.CoreCompileInputs.cache
+C:\Users\Z0040DAK\source\repos\SayiCozumleme\SayiCozumleme\obj\Debug\SayiCozumleme.exe
+C:\Users\Z0040DAK\source\repos\SayiCozumleme\SayiCozumleme\obj\Debug\SayiCozumleme.pdb
