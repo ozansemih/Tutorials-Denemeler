@@ -1,0 +1,7 @@
+C:\Users\Z0040DAK\source\repos\UygulamaTekrarEtmeyenSayılar\UygulamaTekrarEtmeyenSayılar\bin\Debug\UygulamaTekrarEtmeyenSayılar.exe.config
+C:\Users\Z0040DAK\source\repos\UygulamaTekrarEtmeyenSayılar\UygulamaTekrarEtmeyenSayılar\bin\Debug\UygulamaTekrarEtmeyenSayılar.exe
+C:\Users\Z0040DAK\source\repos\UygulamaTekrarEtmeyenSayılar\UygulamaTekrarEtmeyenSayılar\bin\Debug\UygulamaTekrarEtmeyenSayılar.pdb
+C:\Users\Z0040DAK\source\repos\UygulamaTekrarEtmeyenSayılar\UygulamaTekrarEtmeyenSayılar\obj\Debug\UygulamaTekrarEtmeyenSayılar.csprojAssemblyReference.cache
+C:\Users\Z0040DAK\source\repos\UygulamaTekrarEtmeyenSayılar\UygulamaTekrarEtmeyenSayılar\obj\Debug\UygulamaTekrarEtmeyenSayılar.csproj.CoreCompileInputs.cache
+C:\Users\Z0040DAK\source\repos\UygulamaTekrarEtmeyenSayılar\UygulamaTekrarEtmeyenSayılar\obj\Debug\UygulamaTekrarEtmeyenSayılar.exe
+C:\Users\Z0040DAK\source\repos\UygulamaTekrarEtmeyenSayılar\UygulamaTekrarEtmeyenSayılar\obj\Debug\UygulamaTekrarEtmeyenSayılar.pdb

@@ -1,0 +1,7 @@
+C:\Users\Z0040DAK\source\repos\UygulamaHediyeEşleştirme\UygulamaHediyeEşleştirme\obj\Debug\UygulamaHediyeEşleştirme.csprojAssemblyReference.cache
+C:\Users\Z0040DAK\source\repos\UygulamaHediyeEşleştirme\UygulamaHediyeEşleştirme\obj\Debug\UygulamaHediyeEşleştirme.csproj.CoreCompileInputs.cache
+C:\Users\Z0040DAK\source\repos\UygulamaHediyeEşleştirme\UygulamaHediyeEşleştirme\bin\Debug\UygulamaHediyeEşleştirme.exe.config
+C:\Users\Z0040DAK\source\repos\UygulamaHediyeEşleştirme\UygulamaHediyeEşleştirme\bin\Debug\UygulamaHediyeEşleştirme.exe
+C:\Users\Z0040DAK\source\repos\UygulamaHediyeEşleştirme\UygulamaHediyeEşleştirme\bin\Debug\UygulamaHediyeEşleştirme.pdb
+C:\Users\Z0040DAK\source\repos\UygulamaHediyeEşleştirme\UygulamaHediyeEşleştirme\obj\Debug\UygulamaHediyeEşleştirme.exe
+C:\Users\Z0040DAK\source\repos\UygulamaHediyeEşleştirme\UygulamaHediyeEşleştirme\obj\Debug\UygulamaHediyeEşleştirme.pdb
