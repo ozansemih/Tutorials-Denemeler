@@ -1,0 +1,7 @@
+C:\Users\Z0040DAK\source\repos\SifreGizleme\SifreGizleme\bin\Debug\SifreGizleme.exe.config
+C:\Users\Z0040DAK\source\repos\SifreGizleme\SifreGizleme\bin\Debug\SifreGizleme.exe
+C:\Users\Z0040DAK\source\repos\SifreGizleme\SifreGizleme\bin\Debug\SifreGizleme.pdb
+C:\Users\Z0040DAK\source\repos\SifreGizleme\SifreGizleme\obj\Debug\SifreGizleme.csproj.CoreCompileInputs.cache
+C:\Users\Z0040DAK\source\repos\SifreGizleme\SifreGizleme\obj\Debug\SifreGizleme.exe
+C:\Users\Z0040DAK\source\repos\SifreGizleme\SifreGizleme\obj\Debug\SifreGizleme.pdb
+C:\Users\Z0040DAK\source\repos\SifreGizleme\SifreGizleme\obj\Debug\SifreGizleme.csprojAssemblyReference.cache

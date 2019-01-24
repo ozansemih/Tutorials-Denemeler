@@ -1,0 +1,7 @@
+C:\Users\Z0040DAK\source\repos\Rezervasyon\Rezervasyon\bin\Debug\Rezervasyon.exe.config
+C:\Users\Z0040DAK\source\repos\Rezervasyon\Rezervasyon\bin\Debug\Rezervasyon.exe
+C:\Users\Z0040DAK\source\repos\Rezervasyon\Rezervasyon\bin\Debug\Rezervasyon.pdb
+C:\Users\Z0040DAK\source\repos\Rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.csprojAssemblyReference.cache
+C:\Users\Z0040DAK\source\repos\Rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Z0040DAK\source\repos\Rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.exe
+C:\Users\Z0040DAK\source\repos\Rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.pdb
